@@ -1,0 +1,10 @@
+node_modules
+
+.env
+
+dist/*
+
+.vscode/
+prisma/*.db
+prisma/migrations/
+wrangler.toml
